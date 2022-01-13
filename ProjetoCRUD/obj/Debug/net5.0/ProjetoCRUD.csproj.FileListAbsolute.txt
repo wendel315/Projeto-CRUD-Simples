@@ -1,0 +1,16 @@
+C:\Users\wende\source\repos\ProjetoCRUD\ProjetoCRUD\bin\Debug\net5.0\ProjetoCRUD.exe
+C:\Users\wende\source\repos\ProjetoCRUD\ProjetoCRUD\bin\Debug\net5.0\ProjetoCRUD.deps.json
+C:\Users\wende\source\repos\ProjetoCRUD\ProjetoCRUD\bin\Debug\net5.0\ProjetoCRUD.runtimeconfig.json
+C:\Users\wende\source\repos\ProjetoCRUD\ProjetoCRUD\bin\Debug\net5.0\ProjetoCRUD.runtimeconfig.dev.json
+C:\Users\wende\source\repos\ProjetoCRUD\ProjetoCRUD\bin\Debug\net5.0\ProjetoCRUD.dll
+C:\Users\wende\source\repos\ProjetoCRUD\ProjetoCRUD\bin\Debug\net5.0\ref\ProjetoCRUD.dll
+C:\Users\wende\source\repos\ProjetoCRUD\ProjetoCRUD\bin\Debug\net5.0\ProjetoCRUD.pdb
+C:\Users\wende\source\repos\ProjetoCRUD\ProjetoCRUD\obj\Debug\net5.0\ProjetoCRUD.csproj.AssemblyReference.cache
+C:\Users\wende\source\repos\ProjetoCRUD\ProjetoCRUD\obj\Debug\net5.0\ProjetoCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wende\source\repos\ProjetoCRUD\ProjetoCRUD\obj\Debug\net5.0\ProjetoCRUD.AssemblyInfoInputs.cache
+C:\Users\wende\source\repos\ProjetoCRUD\ProjetoCRUD\obj\Debug\net5.0\ProjetoCRUD.AssemblyInfo.cs
+C:\Users\wende\source\repos\ProjetoCRUD\ProjetoCRUD\obj\Debug\net5.0\ProjetoCRUD.csproj.CoreCompileInputs.cache
+C:\Users\wende\source\repos\ProjetoCRUD\ProjetoCRUD\obj\Debug\net5.0\ProjetoCRUD.dll
+C:\Users\wende\source\repos\ProjetoCRUD\ProjetoCRUD\obj\Debug\net5.0\ref\ProjetoCRUD.dll
+C:\Users\wende\source\repos\ProjetoCRUD\ProjetoCRUD\obj\Debug\net5.0\ProjetoCRUD.pdb
+C:\Users\wende\source\repos\ProjetoCRUD\ProjetoCRUD\obj\Debug\net5.0\ProjetoCRUD.genruntimeconfig.cache

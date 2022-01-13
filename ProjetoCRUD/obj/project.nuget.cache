@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hbgCfXzwrbuIfqCyEqGTFOvl9Tv+2zyaOPWoqm6iI0MiErbjS9IIycq6TrSyx59pHiyhfL1vkMA7l4WtPCwT2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wende\\source\\repos\\ProjetoCRUD\\ProjetoCRUD\\ProjetoCRUD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wende\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
